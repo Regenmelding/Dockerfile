@@ -1,0 +1,12 @@
+django
+psycopg2
+python-gcm
+pillow
+numpy
+opencv-python
+scipy
+scikit-image
+imageio
+twitter
+facebook-sdk
+testfixtures
