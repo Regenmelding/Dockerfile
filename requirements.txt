@@ -10,3 +10,4 @@ imageio
 twitter
 facebook-sdk
 testfixtures
+websocket
