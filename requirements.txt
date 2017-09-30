@@ -9,5 +9,7 @@ scikit-image
 imageio
 twitter
 facebook-sdk
-testfixtures
 websocket-client
+freezegun
+pyOpenSSL
+requests_mock
