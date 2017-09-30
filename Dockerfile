@@ -1,4 +1,4 @@
-FROM python:3.6
+FROM python:3.5
 
 RUN apt update && apt install -y gettext ruby
 
