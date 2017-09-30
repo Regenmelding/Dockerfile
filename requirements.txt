@@ -13,3 +13,4 @@ websocket-client
 freezegun
 pyOpenSSL
 requests_mock
+pyasn1_modules
